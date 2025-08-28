@@ -26,16 +26,16 @@ notebooks/Untitled_optimized.ipynb — instrumented for reproducibility, timing,
 
 Python ≥ 3.9 is recommended.
 
-# 1) Create & activate a virtual environment
+#1) Create & activate a virtual environment
 python -m venv .venv
-# Windows: .venv\Scripts\activate
-# macOS/Linux:
+#Windows: .venv\Scripts\activate
+#macOS/Linux:
 source .venv/bin/activate
 
-# 2) Install dependencies
+#2) Install dependencies
 pip install -r requirements.txt
 
-# If you don't have requirements.txt yet, start with:
+#If you don't have requirements.txt yet, start with:
 pip install jupyter numpy pandas scikit-learn matplotlib seaborn xgboost lightgbm catboost
 pip freeze > requirements.txt
 
