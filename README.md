@@ -41,11 +41,7 @@ Download and place the CSV file(s) inside the `data/` folder before running the 
 ---
 🛠️ Tech Stack
 ```
-Python 3.9+
-Pandas, NumPy, Scikit-learn
-XGBoost, LightGBM, CatBoost
-Jupyter Notebook
-Matplotlib / Seaborn
+Python 3.9+ | Pandas, NumPy, Scikit-learn | XGBoost, LightGBM, CatBoost | Jupyter Notebook | Matplotlib / Seaborn
 ```
 ---
 
