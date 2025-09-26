@@ -37,14 +37,20 @@ This project uses the **Fake News Dataset** from Kaggle:
 🔗 [Fake News Dataset (Kaggle)](https://www.kaggle.com/c/fake-news/data)  
 
 Download and place the CSV file(s) inside the `data/` folder before running the notebooks.  
-
 ---
-🛠️ Tech Stack
-```
-Python 3.9+ | Pandas, NumPy, Scikit-learn | XGBoost, LightGBM, CatBoost | Jupyter Notebook | Matplotlib / Seaborn
-```
----
+## 🛠️ Tech Stack  
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)  
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellowgreen.svg)  
+![NumPy](https://img.shields.io/badge/NumPy-Matrix%20Computations-orange.svg)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML%20Library-red.svg)  
+![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-brightgreen.svg)  
+![LightGBM](https://img.shields.io/badge/LightGBM-Boosting-lightblue.svg)  
+![CatBoost](https://img.shields.io/badge/CatBoost-Boosting-lightcoral.svg)  
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-lightgrey.svg)  
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-blueviolet.svg)  
+---
 ## 🚀 Getting Started  
 ```
 1. Clone the repo  
