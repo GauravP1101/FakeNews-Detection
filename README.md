@@ -41,12 +41,13 @@ Download and place the CSV file(s) inside the `data/` folder before running the 
 ---
 
 ## 🚀 Getting Started  
-
+```
 ### 1. Clone the repo  
   git clone https://github.com/GauravP1101/FakeNews-Detection.git
   cd FakeNews-Detection
 
 ### 2. Create & activate a virtual environment
+   
   python -m venv .venv
   # Windows
   .venv\Scripts\activate
