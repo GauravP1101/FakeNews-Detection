@@ -1,6 +1,6 @@
 # 📰 Fake News Detection  
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg) | ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg) | ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) | ![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)  
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)  ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange.svg)  ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  ![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)  
 
 A machine learning project that trains and evaluates a **fake news classification model** from tabular text data using **Jupyter Notebooks**. The workflow demonstrates industry best practices for reproducible ML development — including data preprocessing, feature engineering, cross-validation, and pipeline-based model training.  
 
