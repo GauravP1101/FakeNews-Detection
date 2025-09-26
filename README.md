@@ -39,6 +39,14 @@ This project uses the **Fake News Dataset** from Kaggle:
 Download and place the CSV file(s) inside the `data/` folder before running the notebooks.  
 
 ---
+🛠️ Tech Stack
+
+Python 3.9+
+Pandas, NumPy, Scikit-learn
+XGBoost, LightGBM, CatBoost
+Jupyter Notebook
+Matplotlib / Seaborn
+---
 
 ## 🚀 Getting Started  
 ```
@@ -63,12 +71,5 @@ Download and place the CSV file(s) inside the `data/` folder before running the 
 4. Run notebooks
   jupyter notebook
 ```
-🛠️ Tech Stack
-
-Python 3.9+
-Pandas, NumPy, Scikit-learn
-XGBoost, LightGBM, CatBoost
-Jupyter Notebook
-Matplotlib / Seaborn
 
 
