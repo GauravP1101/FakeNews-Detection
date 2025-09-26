@@ -42,11 +42,11 @@ Download and place the CSV file(s) inside the `data/` folder before running the 
 
 ## 🚀 Getting Started  
 ```
-### 1. Clone the repo  
+1. Clone the repo  
   git clone https://github.com/GauravP1101/FakeNews-Detection.git
   cd FakeNews-Detection
 
-### 2. Create & activate a virtual environment
+2. Create & activate a virtual environment
    
   python -m venv .venv
   # Windows
@@ -54,15 +54,15 @@ Download and place the CSV file(s) inside the `data/` folder before running the 
   # macOS/Linux
   source .venv/bin/activate
 
-### 3. Install dependencies
+3. Install dependencies
   pip install -r requirements.txt
   If requirements.txt is missing, you can start with:
   pip install jupyter numpy pandas scikit-learn matplotlib seaborn xgboost lightgbm catboost
   pip freeze > requirements.txt
 
-### 4. Run notebooks
+4. Run notebooks
   jupyter notebook
-
+```
 🛠️ Tech Stack
 
 Python 3.9+
